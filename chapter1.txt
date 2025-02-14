@@ -1,0 +1,2 @@
+Dies ist Kapitel 1
+Das ist nur Text, um zu gucken, wie Git funktioniert
